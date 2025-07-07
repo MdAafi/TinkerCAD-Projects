@@ -20,3 +20,21 @@ You can explore and run the simulations directly Tinkercad:
 
 
 [Ultra sonic](https://www.tinkercad.com/things/66kDeEiS2XA-ultra-sonic?sharecode=3MxxxeqZkG44NhPK_r6QeGY9HEa7MLlDKCcKsI519K4)
+
+
+[Gas and Temp](https://www.tinkercad.com/things/gBXbpEUVqeB-gas-and-temp?sharecode=LcFHdGLU5ds-sJXuKd_bs9oI3zMqe2aw07b-aZK4j5U)
+
+[Light sensor](https://www.tinkercad.com/things/4nMr2d5uTec-light-sensor?sharecode=lKzkkg1BciqPVwR8hjhKsoA5h7IogsBuIWoRtdB3iEw)
+
+[Password](https://www.tinkercad.com/things/33XyIT4c8EW-password?sharecode=HltGQWmVjZA2E9EY1RQoMbNOqyjitTofCV9k2YOjp1o)
+
+
+
+
+
+
+Author
+
+Md. Nura Murtaza Aafi
+
+EEE- KUET
