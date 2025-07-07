@@ -28,6 +28,8 @@ You can explore and run the simulations directly Tinkercad:
 
 [Password](https://www.tinkercad.com/things/33XyIT4c8EW-password?sharecode=HltGQWmVjZA2E9EY1RQoMbNOqyjitTofCV9k2YOjp1o)
 
+[Controlling LEDs using IR Remote](https://www.tinkercad.com/things/7wlXGIT7twr-controlling-leds-using-ir-remote)
+
 
 
 
