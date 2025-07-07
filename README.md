@@ -17,4 +17,4 @@ Tinkercad Circuits Arduino UNO (Simulated) Servo Motors, Ultrasonic Sensors, Buz
 live simulation
 
 You can explore and run the simulations directly Tinkercad:
-[Ultra sonic] (https://www.tinkercad.com/things/66kDeEiS2XA-ultra-sonic?sharecode=3MxxxeqZkG44NhPK_r6QeGY9HEa7MLlDKCcKsI519K4)
+[Ultra sonic](https://www.tinkercad.com/things/66kDeEiS2XA-ultra-sonic?sharecode=3MxxxeqZkG44NhPK_r6QeGY9HEa7MLlDKCcKsI519K4)
